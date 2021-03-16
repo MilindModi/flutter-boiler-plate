@@ -1,4 +1,4 @@
-# boiler_plate_1
+# Boiler Plate code for Flutter 
 
 A new Flutter application which is mainly used for the process boiler plate.
 
